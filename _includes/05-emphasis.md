@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Hello, I'm __Phoebe__. I'm a bit _shy_ and _quiet_. **But** I'm really friendly and like to meet new friends so, let's play together if we have chance!
